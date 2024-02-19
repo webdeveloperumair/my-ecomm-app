@@ -1,3 +1,6 @@
+<?php
+require_once 'global/global-variable.php';
+?>
 <!doctype html>
 <html class="no-js" lang="zxx">
    
